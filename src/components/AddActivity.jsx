@@ -112,10 +112,9 @@ function AddActivity({
           }
         >
           <option value="">Select assignee</option>
-          <option value="salma">Salma</option>
-          <option value="omar">Omar</option>
-          <option value="zyad">Zyad</option>
-          <option value="john">john</option>
+          <option value="tony">Tony</option>
+          <option value="john">John</option>
+          <option value="tom">Tom</option>
         </select>
       </p>
       {activityOverlap && (

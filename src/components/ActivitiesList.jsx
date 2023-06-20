@@ -22,7 +22,7 @@ function ActivitiesList() {
       type: "Aeration",
       date: "Tuedsay, June 20, 2023 4:30 PM",
       pitch: 1,
-      user: "Zyad",
+      user: "Tom",
     },
     {
       id: 9,
@@ -38,7 +38,7 @@ function ActivitiesList() {
       type: "Fertilisation",
       date: "Friday, June 24, 2016 1:42 PM",
       pitch: 3,
-      user: "Salma",
+      user: "Tony",
     },
     {
       id: 3,
@@ -46,7 +46,7 @@ function ActivitiesList() {
       type: "Irrigation",
       date: "Friday, June 24, 2016 05:00 PM",
       pitch: 1,
-      user: "Omar",
+      user: "John",
     },
     {
       id: 4,
@@ -54,7 +54,7 @@ function ActivitiesList() {
       type: "Aeration",
       date: "Friday, June 24, 2016 12:00 PM",
       pitch: 2,
-      user: "Zyad",
+      user: "Tom",
     },
     {
       id: 5,
@@ -62,7 +62,7 @@ function ActivitiesList() {
       type: "Mowing",
       date: "Friday, June 24, 2016 03:30 AM",
       pitch: 1,
-      user: "Omar",
+      user: "John",
     },
     {
       id: 6,
@@ -70,7 +70,7 @@ function ActivitiesList() {
       type: "Fertilisation",
       date: "Friday, June 24, 2016 04:15 PM",
       pitch: 3,
-      user: "Zyad",
+      user: "Tom",
     },
   ]);
   const [filteredActivitiesList, setFilteredActivitiesList] = useState([]);
